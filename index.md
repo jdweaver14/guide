@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## Creating a GitHub Account
+
+## Creating a New Repo
+
+![Creating a New Repo GIF](https://user-images.githubusercontent.com/22283357/126868712-9e824e2d-270d-4302-9b9a-158ba2a476fa.gif)
+

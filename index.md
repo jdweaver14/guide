@@ -27,7 +27,10 @@ Once logged into your GitHub account, you will need to create a new repository w
 4. You can edit the code in index.md to customize text, add images
 ![Viewing Your Page GIF](https://user-images.githubusercontent.com/22283357/126868853-cd5e5ad2-b131-4319-837d-93adffbc4589.gif)
 
-Markdown is a simple language, there are a few points of syntax to add elements or format your text. If you need help with Markdown, they have really helpful info on their website [here](https://www.markdownguide.org/)
+
+## Editing Pages
+
+Your GitHub page can be edited in Markdown, a lightweight markup language. If you are unsure how to format or add content, you can search on their website [here](https://www.markdownguide.org/)
 
 
 

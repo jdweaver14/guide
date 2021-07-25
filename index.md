@@ -30,7 +30,7 @@ Once logged into your GitHub account, you will need to create a new repository w
 
 ## Editing Pages
 
-Your GitHub page can be edited in Markdown, a lightweight markup language. If you are unsure how to format or add content, you can search on their website [here](https://www.markdownguide.org/)
+Your GitHub page can be edited in Markdown, a lightweight markup language. If you are unsure how to format or add content, you can search on their [website](https://www.markdownguide.org/)
 
 
 

@@ -12,18 +12,19 @@ Test <a href="page1.md">Page 2</a>
 
 Once logged into your GitHub account, you will need to create a new repository with the following steps.
 1. Create a new repository
-![Creating a New Repo GIF](https://user-images.githubusercontent.com/22283357/126868712-9e824e2d-270d-4302-9b9a-158ba2a476fa.gif)
-
 - Click the icon to create a new repository.
 - Name your repository anything you like (e.g. “digitalportfolio”).
 - Set visibility to public.
 - Select to add a ReadMe.
+![Creating a New Repo GIF](https://user-images.githubusercontent.com/22283357/126868712-9e824e2d-270d-4302-9b9a-158ba2a476fa.gif)
 
 
 2. Create an index.md (markdown) file in your repository and commit
-![Adding Firsg File GIF](https://user-images.githubusercontent.com/22283357/126868743-39709a5f-090d-44c3-bd6c-364f3ecfde14.gif)
 - Once you have created your repository, create a new markdown file within it called “index.md”. Commit this file (default settings).
 From your repository, go to Settings.
+
+![Adding Firsg File GIF](https://user-images.githubusercontent.com/22283357/126868743-39709a5f-090d-44c3-bd6c-364f3ecfde14.gif)
+
 
 
 ## Linking Your Repo to GitHub Pages
@@ -37,7 +38,6 @@ From your repository, go to Settings.
 ![Publishing to GitHub Pages GIF](https://user-images.githubusercontent.com/22283357/126868848-45a19ed9-3e25-49e2-a065-3f95a6110a23.gif)
 
 2. Choose a theme for your site
-
 - Choose a theme - this will be the template for your site
 - Hit publish
 
@@ -48,7 +48,6 @@ From your repository, go to Settings.
 ![Commit the Template File GIF](https://user-images.githubusercontent.com/22283357/126868764-7118795c-2416-48f5-a59b-efc289690974.gif)
 
 4. You can edit the code in index.md to customize text, add images
-
 - Scroll down to see our markdown guide to see how to get started
 
 ![Viewing Your Page GIF](https://user-images.githubusercontent.com/22283357/126868853-cd5e5ad2-b131-4319-837d-93adffbc4589.gif)

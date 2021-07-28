@@ -37,4 +37,79 @@ Once logged into your GitHub account, you will need to create a new repository w
 Your GitHub page can be edited in Markdown, a lightweight markup language. If you are unsure how to format or add content, you can search on their [website](https://www.markdownguide.org/)
 
 
+# Markdown Cheat Sheet
+
+## Formatting Text
+### Headings
+In Markdown, you can use Heading Styles with a number of # symbols, followed by a space.
+Example:
+  # The text here will be in style Heading 1
+# The text here will be in style Heading 1
+  ## The text here will be in style Heading 2
+## The text here will be in style Heading 2
+
+  **bold text here**
+**bold text here**
+  *italic text here*
+*italic text here*
+  ***bold and italic text here***
+***bold and italic text here***
+
+### Bullet Points
+Use - to denote a bullet point
+  - point a
+  - point b
+  - point c
+- point a
+- point b
+- point c
+
+Blockquotes
+Text can be put into a block quote section by beginning the line with the > symbol followed by a space.
+> the text here will be in a block quotes
+
+You can create multiline, and nested blockquote sections
+
+> 
+> 
+>>
+>
+
+### Code Blocks
+If you indent code sections with a tab, they will appear as a codeblock in markdown.
+
+
+
+
+
+## Links and Images
+### Clickable links
+<https://www.markdownguide.org>
+<fake@example.com>
+
+
+### Adding a link to text
+The word in square brackets will be linked to the address in brackets. The words in quotation marks are the title - they will appear when you hover over the link.
+Click [Here](https://www.engineering.cornell.edu/)
+My favorite search engine is [Google](https://www.google.com "The best search engine")
+
+### Adding Images:
+The text in quotation marks is the (optional) title - it will appear when the link is hovered over. The text in brackets is not displayed.
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+//insert screenshot / gif 
+Adding Videos:
+The text in quotation marks is the (optional) title - it will appear when the link is hovered over
+![The San Juan Mountains are beautiful!](/assets/videos/san-juan-mountains.gif "San Juan Mountains")
+//insert screenshot / gif 
+
+## Troubleshooting
+If you need to escape a character, you can use backslash (e.g. if you want to write a number followed by a ‘.’, to prevent it from being detected as a numbered list).
+
+You can also use HTML in your markdown file between tags
+For example:
+ This <em>word</em> is italic. 
+Would produce the same effect as:
+This *word* is italic.
+
+
 

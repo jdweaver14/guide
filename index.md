@@ -44,23 +44,28 @@ Your GitHub page can be edited in Markdown, a lightweight markup language. If yo
 In Markdown, you can use Heading Styles with a number of # symbols, followed by a space.
 Example:
 ```
-# The text here will be rendered in style Heading 1
+> ### The text here will be rendered in style Heading 1
 ```
-> # Heading 1
+> ### Heading 3
+
 
 ```
-## The text here will be rendered in style Heading 2
+> ## The text here will be rendered in style Heading 2
 ```
 > ## Heading 2
+
 
 ```
 **bold text here**
 ```
 > **bold text here**
+
+
 ```
 *italic text here*
 ```
 > *italic text here*
+
 
 ```
 ***bold and italic text here***

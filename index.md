@@ -1,3 +1,5 @@
+{:toc}
+
 # Getting Started
 
 ## Creating a GitHub Account

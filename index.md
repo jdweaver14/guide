@@ -160,7 +160,9 @@ The text in quotation marks is the (optional) title - it will appear when the li
 ```
 ![My Submarine Design](https://cuauv.org/static/media/CUAUV%20Hero%20Video.64b4eaf3.mp4 "Autonomous Sumbarine")
 ```
-![CUAUV](https://cuauv.org/static/media/CUAUV%20Hero%20Video.64b4eaf3.mp4 "Autonomous Sumbarine")
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://cuauv.org/static/media/CUAUV%20Hero%20Video.64b4eaf3.mp4">
+</video>
 
 
 ## Troubleshooting

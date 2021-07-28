@@ -47,6 +47,7 @@ Example:
 # The text here will be rendered in style Heading 1
 ```
 > # Heading 1
+
 ```
 ## The text here will be rendered in style Heading 2
 ```
@@ -60,10 +61,12 @@ Example:
 *italic text here*
 ```
 > *italic text here*
+
 ```
 ***bold and italic text here***
 ```
 > ***bold and italic text here***
+
 
 ### Bullet Points
 Use - to denote a bullet point

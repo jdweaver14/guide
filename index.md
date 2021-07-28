@@ -150,15 +150,16 @@ My favorite search engine is [Google](https://www.google.com "The best search en
 ### Adding Images:
 The text in quotation marks is the (optional) title - it will appear when the link is hovered over. The text in brackets is not displayed.
 ```
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The Cornell Campus!](https://www.cornell.edu/about/img/main-Tower1.Still001-720x.jpg "Cornell Campus")
 ```
-//insert screenshot / gif 
+![The Cornell Campus!](https://www.cornell.edu/about/img/main-Tower1.Still001-720x.jpg "Cornell Campus")
+
 Adding Videos:
 The text in quotation marks is the (optional) title - it will appear when the link is hovered over
 ```
-![The San Juan Mountains are beautiful!](/assets/videos/san-juan-mountains.gif "San Juan Mountains")
+![CUAUV](https://cuauv.org/static/media/CUAUV%20Hero%20Video.64b4eaf3.mp4 "Autonomous Sumbarine")
 ```
-//insert screenshot / gif 
+
 
 ## Troubleshooting
 If you need to escape a character, you can use backslash (e.g. if you want to write a number followed by a ‘.’, to prevent it from being detected as a numbered list).

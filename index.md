@@ -157,8 +157,9 @@ The text in quotation marks is the (optional) title - it will appear when the li
 Adding Videos:
 The text in quotation marks is the (optional) title - it will appear when the link is hovered over
 ```
-![CUAUV](https://cuauv.org/static/media/CUAUV%20Hero%20Video.64b4eaf3.mp4 "Autonomous Sumbarine")
+![My Submarine Design](https://cuauv.org/static/media/CUAUV%20Hero%20Video.64b4eaf3.mp4 "Autonomous Sumbarine")
 ```
+![CUAUV](https://cuauv.org/static/media/CUAUV%20Hero%20Video.64b4eaf3.mp4 "Autonomous Sumbarine")
 
 
 ## Troubleshooting
@@ -197,7 +198,7 @@ Once you have your bio, pop it onto your GitHub repository. You can add links in
 
 > **John Smith**
 >> Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Interested in Natural Language Processing.
->> Summer 2020 Intern at [Microsoft Research] (https://www.microsoft.com/en-us/research/).
+>> Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
 
 
 

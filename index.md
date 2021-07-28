@@ -207,10 +207,15 @@ You could include information on the following:
 - Personal Interests / Hobbies 
 
 Once you have your bio, pop it onto your GitHub repository. You can add links in markdown like this:
-
+```
 > **John Smith**
->> Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Interested in Natural Language Processing.
->> Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
+>> Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
+>> Interested in Natural Language Processing.
+```
+> **John Smith**
+>> Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
+>> Interested in Natural Language Processing.
+
 
  
   

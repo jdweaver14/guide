@@ -46,24 +46,24 @@ Example:
 ```
 # The text here will be rendered in style Heading 1
 ```
-# Heading 1
+> # Heading 1
 ```
 ## The text here will be rendered in style Heading 2
 ```
-## Heading 2
+> ## Heading 2
 
 ```
 **bold text here**
 ```
-**bold text here**
+> **bold text here**
 ```
 *italic text here*
 ```
-*italic text here*
+> *italic text here*
 ```
 ***bold and italic text here***
 ```
-***bold and italic text here***
+> ***bold and italic text here***
 
 ### Bullet Points
 Use - to denote a bullet point
@@ -137,6 +137,6 @@ Would produce the same effect as:
 ```
 This *word* is italic.
 ```
-
+> This *word* is italic.
 
 

@@ -39,13 +39,14 @@ From your repository, go to Settings.
 
 2. Choose a theme for your site
 - Choose a theme - this will be the template for your site
-- Hit publish
+- Hit "select theme"
 
 ![Selecting A Theme GIF](https://user-images.githubusercontent.com/22283357/126868961-43d3fead-8fd3-4cad-b825-8feac8612e1f.gif)
 
 
 3. Commit - your site is now online
-- Our site is published at https://digitalportfolio.github.io/guide - Yours will be published at <yourgithubusername>.github.io/<repositoryname> (the url can also be found in your settings > Pages)
+- You are now on the markdown file which is the basis of your site. This is what you can later edit to add content to your site. For now, you can go ahead and commit to publish.
+- Our site is published at https://digitalportfolio.github.io/guide - Yours will be published at <yourgithubusername>.github.io/<repositoryname> (the url can also be found in your settings > Pages) 
 ![Commit the Template File GIF](https://user-images.githubusercontent.com/22283357/126868764-7118795c-2416-48f5-a59b-efc289690974.gif)
 
 4. You can edit the code in index.md to customize text, add images
@@ -190,7 +191,7 @@ If you are unsure how to format or add content, and need more info on Markdown y
 
 # Creating Content
 
-If you are not sure how to start adding content to your digital portfolio, you can use your Resume as a starting point. 
+If you are not sure how to start adding content to your digital portfolio, you can use your Resume as a starting point. For help with your resume, you can check out the Cornell Career Services [Resume Prep Page](https://scl.cornell.edu/get-involved/career-services/resumes-and-interview-prep/resumes) or the Cornell Engineering Career Services ["Build A Better Resume"](https://www.engineering.cornell.edu/sites/default/files/departments/career%20services/Build%20A%20Better%20Resume-%20Technical-%20Fall%202017.ppt) Guide.
 
 ## Your Bio
 
@@ -209,7 +210,10 @@ Once you have your bio, pop it onto your GitHub repository. You can add links in
 >> Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Interested in Natural Language Processing.
 >> Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
 
-
+ 
+  
+## Adding Projects
+  
 
 
 

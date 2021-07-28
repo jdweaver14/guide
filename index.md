@@ -78,7 +78,8 @@ Use - to denote a bullet point
 
 Blockquotes
 Text can be put into a block quote section by beginning the line with the > symbol followed by a space.
-> the text here will be in a block quotes
+```> the text here will be in a block quotes```
+> this is how text in block quotes will appear
 
 You can create multiline, and nested blockquote sections
 

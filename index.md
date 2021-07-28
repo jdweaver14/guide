@@ -78,41 +78,51 @@ Use - to denote a bullet point
 
 Blockquotes
 Text can be put into a block quote section by beginning the line with the > symbol followed by a space.
+
 ```> the text here will be in a block quotes```
 > this is how text in block quotes will appear
 
 You can create multiline, and nested blockquote sections
 
-> 
-> 
->>
->
+> level 1
+> level 1
+>> level 2
+
 
 ### Code Blocks
 If you indent code sections with a tab, they will appear as a codeblock in markdown.
-
+You can also separate them by using three backticks before and after the code section
 
 
 
 
 ## Links and Images
-### Clickable links
+### Clickable Links
+```
 <https://www.markdownguide.org>
 <fake@example.com>
+```
 
 
 ### Adding a link to text
 The word in square brackets will be linked to the address in brackets. The words in quotation marks are the title - they will appear when you hover over the link.
+```
+Click [Here](https://www.engineering.cornell.edu/ "Cornell Engineering")
+```
 Click [Here](https://www.engineering.cornell.edu/)
 My favorite search engine is [Google](https://www.google.com "The best search engine")
 
 ### Adding Images:
 The text in quotation marks is the (optional) title - it will appear when the link is hovered over. The text in brackets is not displayed.
+```
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+```
 //insert screenshot / gif 
 Adding Videos:
 The text in quotation marks is the (optional) title - it will appear when the link is hovered over
+```
 ![The San Juan Mountains are beautiful!](/assets/videos/san-juan-mountains.gif "San Juan Mountains")
+```
 //insert screenshot / gif 
 
 ## Troubleshooting
@@ -120,9 +130,13 @@ If you need to escape a character, you can use backslash (e.g. if you want to wr
 
 You can also use HTML in your markdown file between tags
 For example:
- This <em>word</em> is italic. 
+```
+This <em>word</em> is italic. 
+```
 Would produce the same effect as:
+```
 This *word* is italic.
+```
 
 
 

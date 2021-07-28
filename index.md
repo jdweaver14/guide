@@ -110,7 +110,7 @@ Use - to denote a bullet point
 - point b
 - point c
 
-Blockquotes
+### Blockquotes
 Text can be put into a block quote section by beginning the line with the > symbol followed by a space.
 
 ```
@@ -118,8 +118,12 @@ Text can be put into a block quote section by beginning the line with the > symb
 ```
 > this is how text in block quotes will appear
 
-You can create multiline, and nested blockquote sections
-
+You can create multiline, and nested blockquote sections by using  > vs >>
+```
+> level 1
+> level 1
+>> level 2
+```
 > level 1
 > level 1
 >> level 2

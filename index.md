@@ -148,14 +148,14 @@ Click [Here](https://www.engineering.cornell.edu/ "Cornell Engineering")
 Click [Here](https://www.engineering.cornell.edu/)
 My favorite search engine is [Google](https://www.google.com "The best search engine")
 
-### Adding Images:
+### Adding Images
 The text in quotation marks is the (optional) title - it will appear when the link is hovered over. The text in brackets is not displayed.
 ```
 ![The Cornell Campus!](https://www.cornell.edu/about/img/main-Tower1.Still001-720x.jpg "Cornell Campus")
 ```
 ![The Cornell Campus!](https://www.cornell.edu/about/img/main-Tower1.Still001-720x.jpg "Cornell Campus")
 
-Adding Videos:
+### Adding Videos
 The text in quotation marks is the (optional) title - it will appear when the link is hovered over
 ```
 ![My Submarine Design](https://cuauv.org/static/media/CUAUV%20Hero%20Video.64b4eaf3.mp4 "Autonomous Sumbarine")

@@ -177,3 +177,30 @@ This *word* is italic.
 If you are unsure how to format or add content, and need more info on Markdown you can search on their [website](https://www.markdownguide.org/)
 
 
+# Creating Content
+
+If you are not sure how to start adding content to your digital portfolio, you can use your Resume as a starting point. 
+
+## Your Bio
+
+You will likely want to include an “About Me” or “Bio” page. Here you can summarize who you are, what you are working on and what you are interested in.
+
+You could include information on the following:
+- Background
+- Education
+- Current Work
+- Areas of Professional Interest
+- Personal Interests / Hobbies 
+
+Once you have your bio, pop it onto your GitHub repository. You can add links in markdown like this:
+
+> **John Smith**
+>> Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Interested in Natural Language Processing.
+>> Summer 2020 Intern at [Microsoft Research] (https://www.microsoft.com/en-us/research/).
+
+
+
+
+
+
+

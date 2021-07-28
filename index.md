@@ -47,6 +47,7 @@ From your repository, go to Settings.
 3. Commit - your site is now online
 - You are now on the markdown file which is the basis of your site. This is what you can later edit to add content to your site. For now, you can go ahead and commit to publish.
 - Our site is published at https://digitalportfolio.github.io/guide - Yours will be published at <yourgithubusername>.github.io/<repositoryname> (the url can also be found in your settings > Pages) 
+
 ![Commit the Template File GIF](https://user-images.githubusercontent.com/22283357/126868764-7118795c-2416-48f5-a59b-efc289690974.gif)
 
 4. You can edit the code in index.md to customize text, add images

@@ -12,7 +12,6 @@ filename: index
 ## Creating a GitHub Account
 
 If you don’t already have one, you will need a GitHub account to get started with your GitHub hosted Digital Portfolio.
-Test <a href="page1.md">Page 2</a>
 
 ## Creating a New Repo
 

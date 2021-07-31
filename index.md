@@ -1,3 +1,9 @@
+---
+title: Getting Started
+layout: template
+filename: index
+--- 
+
 * TOC
 {:toc}
 

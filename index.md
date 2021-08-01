@@ -1,36 +1,52 @@
-# Getting Started
+# Education
 
-## Creating a GitHub Account
-
-If you don’t already have one, you will need a GitHub account to get started with your GitHub hosted Digital Portfolio.
-
-## Creating a New Repo
-
-Once logged into your GitHub account, you will need to create a new repository with the following steps.
-1. Create a new repository
-![Creating a New Repo GIF](https://user-images.githubusercontent.com/22283357/126868712-9e824e2d-270d-4302-9b9a-158ba2a476fa.gif)
-
-2. Create an index.md (markdown) file in your repository and commit
-![Adding Firsg File GIF](https://user-images.githubusercontent.com/22283357/126868743-39709a5f-090d-44c3-bd6c-364f3ecfde14.gif)
-
-## Linking Your Repo to GitHub Pages
-
-1. In Settings > Pages, set up your repo to publish
-![Publishing to GitHub Pages GIF](https://user-images.githubusercontent.com/22283357/126868848-45a19ed9-3e25-49e2-a065-3f95a6110a23.gif)
-
-2. Choose a theme for your site
-![Selecting A Theme GIF](https://user-images.githubusercontent.com/22283357/126868961-43d3fead-8fd3-4cad-b825-8feac8612e1f.gif)
-
-3. Commit - your site is now online
-![Commit the Template File GIF](https://user-images.githubusercontent.com/22283357/126868764-7118795c-2416-48f5-a59b-efc289690974.gif)
-
-4. You can edit the code in index.md to customize text, add images
-![Viewing Your Page GIF](https://user-images.githubusercontent.com/22283357/126868853-cd5e5ad2-b131-4319-837d-93adffbc4589.gif)
+## Cornell University, College of Engineering
+_August 2021_  \| Ithaca, NY
+- Bachelor of Science, Computer Science \| Minor in Business, Dyson School of Business
+  
+## Jericho Senior High School
+_June 2016_ \| Jericho, NY  
+- **Honors & Awards:** AP Scholar w/ Distinction \| National Honor Society \| Spanish Honor Society \| Toshiba ExploraVision \| DuPont Essay Challenge
 
 
-## Editing Pages
+# Skills
 
-Your GitHub page can be edited in Markdown, a lightweight markup language. If you are unsure how to format or add content, you can search on their [website](https://www.markdownguide.org/)
+Programming Languages | Platforms/Databases | Design & IDE Tools | Operating Systems
+---- | ---- | ---- | ----
+Java | Google Cloud Platform | Visual Studio Code | Windows
+Python | AWS | IntelliJ | macOS
+C/C++ | Git | Atom | Linux (Debian/Ubuntu)
+OCaml | Wordpress | Eclipse | WIndows Server
+R | MySQL | Komodo | Android
+HTML | Zapier | Logisim
+CSS | Pipedrive | Diptrace
+SQL | Infusionsoft | Arduino IDE
+JSON | Oracle | Autodesk
+ROBOTC | | Adobe Creative Cloud
+
+# Relevant Experience
+
+## 311PARK LLC
+_**Founder & CEO**_  
+_September 2012 - Present_ \| Syosset, NY  
+  
+**Services Include:** Technical Consulting, Invention Contracting, and Media Production for clients in FinTech, Professional Services, and other industries  
+- Technical Consulting includes software development, IT and network security, pen testing, website design, and server management.
+- Invention Contracting includes individually tailored assisted invention design and prototyping.
+- Media Production includes content creation and incubation, graphic design, and production partnerships.
 
 
+# Projects
 
+## CS 3110 - Poker
+
+### Overview
+
+
+### Individual Contributions
+
+
+### Code Snippet
+```
+
+```

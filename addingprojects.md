@@ -11,7 +11,7 @@ Using a Github Pages site is a great way to showcase technical projects. When ci
 ## How to Represent a project:
 
 **What is the project?**
-Is it easy for the audience to understand what the project is? Why did you undertake this project? If your project is for an end user, you could include an explanation of why the project matters and a user need statement.
+Is it easy for the audience to understand what the project is? Why did you undertake this project? If your project is for an end user, you could include an explanation of why the project matters and a user need statement. Think about what you can use to help illustrate this project. For example, if you have designed an autonomous robot, you could include a video demo as well as technical drawings for your designed, and a link to the GitHub repository where you have programmed its behaviour. If you designed a video game, you could imbed the game itself on your digital portfolio, or include video recordings of game play.
 
 **What did you do?**
 What was your contribution to the project? Was it individual, or a team effort? If it was a team project, which sections were you responsible for?

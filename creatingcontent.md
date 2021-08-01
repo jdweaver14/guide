@@ -51,7 +51,7 @@ The advice below is from Cornell Career Services on what should be included in a
 > **Activities and Interests**
 > In order of their importance, list student organizations, professional associations, committees, and community involvement, indicating offices held. Include high school activities only if they direct relate to your objective. After activities, list interests such as music, sports, and the arts, especially if they pertain to your career interest. You may want to avoid including religious activities or those representing extreme political views.
 
-The above can be found at Cornell Career Services [Resume Prep Page](https://scl.cornell.edu/get-involved/career-services/resumes-and-interview-prep/resumes)
+The above can be found at [Cornell Career Services](https://scl.cornell.edu/get-involved/career-services/resumes-and-interview-prep/resumes "Resume Prep by Cornell Career Services")
 
 If we are looking to use our resumes as a starting point for content to add to our Digital Portfolios, the sections Heading, Objective, Education can go in your bio section. Activities and Interests could also go here, or in a separate page with additional information. 
 

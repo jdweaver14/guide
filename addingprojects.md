@@ -4,11 +4,11 @@ layout: template
 filename: addingprojects
 --- 
 
-** Adding Projects
+# Adding Projects
 
 Using a Github Pages site is a great way to showcase technical projects. When citing technical projects, first you should include a high level description of the project and the goals it helped achieve. You can then include either a short description or list any technical details of the project you potentially want to highlight i.e. impressive parts of the project you want to draw attention to. If code based, you can also include a code block of some of the important code if there is something specific you want to showcase and it is not too long. You can also link any external resources related to the project, potentially including papers, presentations, or other visual artifacts. Finally, you should add a link to the github repository where the project can be found so that any interested parties can go through the code in detail. 
 
-** How to Represent a project:
+## How to Represent a project:
 
 **What is the project?**
 Is it easy for the audience to understand what the project is? Why did you undertake this project? If your project is for an end user, you could include an explanation of why the project matters and a user need statement.

@@ -1,7 +1,7 @@
 ---
-title: Getting Started
+title: Creating Content
 layout: template
-filename: index
+filename: creatingcontent
 --- 
 
 # Creating Content
@@ -31,12 +31,8 @@ Once you have your bio, pop it onto your GitHub repository. You can add links in
 >> Interested in Natural Language Processing.
 
 
+
 The advice below is from Cornell Career Services on what should be included in a resume.
-
-If we are looking to use our resumes as a starting point for content to add to our Digital Portfolios, the sections Heading, Objective, Education can go in your bio section. Activities and Interests could also go here, or in a separate page with additional information. 
-
-For the remainder of the sections, relating to your achievements and experiences, your Digital Portfolio is your chance to expand upon your favourite projects. Create pages showing images, videos of your work and your process or directly publish any interactive work. You can have pages for each of the projects you want to highlight, or group them into categories (e.g. a page for project team work, a page for internship projects).
-
 
 > **Heading**
 > Include name, permanent and local addresses, e-mail address, and phone number. If using two addresses, indicate dates you can be reached at each.
@@ -56,4 +52,8 @@ For the remainder of the sections, relating to your achievements and experiences
 > In order of their importance, list student organizations, professional associations, committees, and community involvement, indicating offices held. Include high school activities only if they direct relate to your objective. After activities, list interests such as music, sports, and the arts, especially if they pertain to your career interest. You may want to avoid including religious activities or those representing extreme political views.
 
 The above can be found at Cornell Career Services [Resume Prep Page](https://scl.cornell.edu/get-involved/career-services/resumes-and-interview-prep/resumes)
+
+If we are looking to use our resumes as a starting point for content to add to our Digital Portfolios, the sections Heading, Objective, Education can go in your bio section. Activities and Interests could also go here, or in a separate page with additional information. 
+
+For the remainder of the sections, relating to your achievements and experiences, your Digital Portfolio is your chance to expand upon your favourite projects. Create pages showing images, videos of your work and your process or directly publish any interactive work. You can have pages for each of the projects you want to highlight, or group them into categories (e.g. a page for project team work, a page for internship projects).
 
